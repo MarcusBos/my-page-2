@@ -1,0 +1,22 @@
+Specification
+
+10 HTML tags I used:
+1) <!DOCTYPE html>
+2) <html>
+3) <head>
+4) <body>
+5) <link>
+6) <script>
+7) <button>
+8) <nav>
+9) <a>
+10) <img>
+
+5 CSS properties I used:
+1) position
+2) width
+3) height
+4) font-size
+5) color
+
+I used JavaScript to make menu links grow on hover, and I used Bootstrap (collapse) to open and close the menu with one simple button.
